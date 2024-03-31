@@ -1,8 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Bonjour! I'm Kowshika Reddy Kandanoolu</h1>
-<h3 align="center">The Data Alchemist from United States, a dedicated data science student at the University at Buffalo, driven by a profound passion for unraveling the mysteries of data. My journey in the realm of data science has been nothing short of exhilarating as I immerse myself in mastering the intricate skills demanded by this dynamic field. My internship experience at Contriver in India served as a pivotal moment, where I witnessed firsthand the practical application of my burgeoning skills. It reinforced my commitment to the data science path, igniting a fervent desire to further hone my abilities and make impactful contributions in the industry. Beyond data science, I possess a strong proficiency in data structures, which not only enhances my capabilities as a data scientist but also fuels my enthusiasm as a passionate developer. I thrive on challenges and am eagerly seeking opportunities to leverage my skills and embark on new adventures in the ever-evolving landscape of data science and development.
+The Data Alchemist from the United States, a passionate data science student at the University at Buffalo, driven by a fervent desire to unravel the mysteries of data. My internship experience in India ignited my commitment to data science, enhancing my skills for impactful contributions. Proficient in data structures, I thrive on challenges, seeking new adventures in data science and development.
 
-
-img align="right" alt="Coding" width="400" src="https://github.com/topics/gifs?o=desc&s=updated"
+<img align="right" alt="Coding" width="400" src="https://github.com/topics/gifs?o=desc&s=updated">
 
 - 🔭 Currently working on **Data Analysis and it's deployment**
 
