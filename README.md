@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Bonjour! I'm Kowshika Reddy Kandanoolu</h1>
 The Data Alchemist from the United States, a passionate data science student at the University at Buffalo, driven by a fervent desire to unravel the mysteries of data. My internship experience in India ignited my commitment to data science, enhancing my skills for impactful contributions. Proficient in data structures, I thrive on challenges, seeking new adventures in data science and development.
 
